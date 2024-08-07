@@ -12,9 +12,6 @@
         <input type="text" id="peso" name="peso" required>
         <br><br>
         <label for="altura">Altura (m):</label>
-        <input type="text" id="altura" name="altura" required>
-        <br><br>
-        <button type="submit">Calcular IMC</button>
     </form>
 
     <?php
